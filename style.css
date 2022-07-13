@@ -1,0 +1,33 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+span {
+  color: coral;
+}
+
+section{
+  display: flex;
+}
+
+.article-1 {
+  width: 50%;
+  padding-left: 5%;
+}
+
+.article-1 img{
+  width: 60%;
+}
+.top-banner {
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+
+.hire-button {
+  text-decoration: none;
+  background-color: rgb(91, 146, 228);
+  padding: 10px 40px;
+  border-radius: 10px;
+  color: white;
+}
